@@ -1,4 +1,4 @@
-# Belly Button Biodiversity Dashboard                       
+# Belly Button Biodiversity Dashboard                    ![Alt text](images/bevy-of-bellies.jpg)   
 
 Using the D3 Javascript library to build an interactive dashboard that can explore the microbes that colonise human navels.
 
