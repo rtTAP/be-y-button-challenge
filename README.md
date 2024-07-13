@@ -29,3 +29,7 @@ Deployed App
 ## Using this Repository
  1. Clone the repository
  2. Open index.html in your browser
+
+## References
+Hulcr, J. et al. (2012) A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable. Retrieved from: http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/Links to an external site.
+
