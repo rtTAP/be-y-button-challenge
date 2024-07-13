@@ -27,5 +27,5 @@ The app is deployed on GitHub Pages and can be accessed at the following link:
 Deployed App
 
 ## Usage
-Clone the repository
-Open index.html in your browser
+ 1. Clone the repository
+ 2. Open index.html in your browser
