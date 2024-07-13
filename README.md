@@ -2,7 +2,7 @@
 
 Using the D3 Javascript library to build an interactive dashboard that can explore the microbes that colonise human navels.
 
-## Project Overview
+# Project Overview
 
 The Belly Button Biodiversity Dashboard project is an interactive web application designed to visualize the microbial species, also known as operational taxonomic units (OTUs), found in human navels. This project leverages the D3 library to read and manipulate data, and uses this data to create dynamic and interactive visualizations.
 
@@ -14,3 +14,4 @@ The project is hosted on GitHub Pages, providing a publicly accessible platform 
 
 This project not only provides valuable insights into the biodiversity of microbes in human navels but also serves as a practical application of data manipulation and visualization techniques. It demonstrates the power of D3 in creating dynamic and interactive web applications, and the importance of good version control and documentation practices.
 
+##
