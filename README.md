@@ -16,9 +16,9 @@ This project not only provides valuable insights into the biodiversity of microb
 
 ##
 ## Features
-  *[Interactive bar chart showing the top 10 OTUs found in an individual]
-  *[Bubble chart displaying each sample]
-  *[Gauge chart showing the washing frequency]
-  *[Demographic information panel]
+  * [Interactive bar chart showing the top 10 OTUs found in an individual]
+  * [Bubble chart displaying each sample]
+  * [Gauge chart showing the washing frequency]
+  * [Demographic information panel]
 
 ##  
