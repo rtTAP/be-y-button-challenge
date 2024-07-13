@@ -21,11 +21,11 @@ This project not only provides valuable insights into the biodiversity of microb
   * Gauge chart showing the washing frequency
   * Demographic information panel
 
-##  Deployment
+##  Link to Deploy
 The app is deployed on GitHub Pages and can be accessed at the following link:
 
 Deployed App
 
-## Usage
+## Using this Repository
  1. Clone the repository
  2. Open index.html in your browser
