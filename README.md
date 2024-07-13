@@ -15,3 +15,10 @@ The project is hosted on GitHub Pages, providing a publicly accessible platform 
 This project not only provides valuable insights into the biodiversity of microbes in human navels but also serves as a practical application of data manipulation and visualization techniques. It demonstrates the power of D3 in creating dynamic and interactive web applications, and the importance of good version control and documentation practices.
 
 ##
+## Features
+  *[Interactive bar chart showing the top 10 OTUs found in an individual]
+  *[Bubble chart displaying each sample]
+  *[Gauge chart showing the washing frequency]
+  *[Demographic information panel]
+
+##  
