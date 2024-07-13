@@ -1,4 +1,4 @@
-<img src="images/bevy-of-bellies.jpg" width="300" />  # Belly Button Biodiversity Dashboard
+ # Belly Button Biodiversity Dashboard  <img src="images/bevy-of-bellies.jpg" width="300" /> 
 
 Using the D3 Javascript library to build an interactive dashboard that can explore the microbes that colonise human navels.
 
