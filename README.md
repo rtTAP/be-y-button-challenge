@@ -33,21 +33,3 @@ Deployed App
 ## References
 Hulcr, J. et al. (2012) A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable. Retrieved from: [Belly Button Data Set Link](https://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/) Links to an external site.
 
-########
-
-# Module 14 Challenge
-Due 27 Jun by 23:59 Points 100 Submitting a text entry box or a website url
-Background
-In this assignment, you will build an interactive dashboard to explore the Belly Button Biodiversity datasetLinks to an external site., which catalogues the microbes that colonise human navels.
-
-The dataset reveals that a small handful of microbial species (also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people, while the rest were relatively rare.
-
-Before You Begin
-Create a new repository for this project called belly-button-challenge. Do not add this Challenge to an existing repository.
-
-Clone the new repository to your computer.
-
-Inside your local git repository, copy the files from in the StarterCode folder contained within the Module 14 Challenge zip file. i.e. index.html, samples.json, and the static folder.
-
-
-
