@@ -21,10 +21,10 @@ This project not only provides valuable insights into the biodiversity of microb
   * Gauge chart showing the washing frequency
   * Demographic information panel
 
-##  Link to Deploy
+##  Link to Deploy App
 The app is deployed on GitHub Pages and can be accessed at the following link:
 
-Deployed App
+[Deployed App](https://rttap.github.io/belly-button-challenge/)
 
 ## Using this Repository
  1. Clone the repository
